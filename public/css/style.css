@@ -1,0 +1,49 @@
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+body {
+
+    display: flex;
+
+    background-color: rgb(0, 0, 0);
+
+    justify-content: center;
+
+    align-content: center;
+
+}
+
+ 
+
+#typing {
+
+    color: white;
+
+    animation: typing 5s steps(22) 1s infinite alternate;
+
+}
+
+ 
+
+#crow {
+
+    animation: crow 0.5s linear 0s infinite;
+
+}
+
+ 
+
+.OP {
+
+    color: rgb(0,0,255);
+
+    font-size: bold;
+
+}
